@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is netrual
+=======
+dfdfdf
+>>>>>>> parent of fe9fd04 (new today)
